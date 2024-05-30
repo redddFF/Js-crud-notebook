@@ -110,7 +110,7 @@ function updateContact(contactId) {
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/js-crud-notebook.git
+   git clone https://github.com/redddFF/Js-crud-notebook
    ```
 2. Open `index.html` in your web browser.
 
